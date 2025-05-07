@@ -62,7 +62,7 @@ Distribusi label tidak seimbang sehingga perlu penanganan khusus seperti augment
 
 Visualisasi gambar dan distribusi label dilakukan untuk memastikan kualitas dan representasi data:
 
-![Distribusi Kelas](5a5d27d1-96d2-4703-9ac1-5b88816e0537.png)
+![Distribusi Kelas](https://github.com/user-attachments/assets/46eddaa8-c43d-42f8-ae48-daa205f3b9c4)
 
 Label dikodekan sebagai berikut:
 
